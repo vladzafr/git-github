@@ -1,3 +1,2 @@
 # git-github
-git repository
-tutorial purpose
+git repository for tutorial purpose
