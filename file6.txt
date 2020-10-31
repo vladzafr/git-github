@@ -4,3 +4,5 @@ Change.
 
 Welcome to file 6
 
+Welcome to file 6
+Change.
