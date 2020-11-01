@@ -1,4 +1,5 @@
 first branch file
 modified in master branch and in firstbranch branches.
 This is a new change in the firstbranch.
+This is another change in the firstbranch.
 
