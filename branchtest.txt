@@ -2,3 +2,4 @@ first branch file
 modified in master branch and in firstbranch branches.
 some new text
 a new line
+updated line
